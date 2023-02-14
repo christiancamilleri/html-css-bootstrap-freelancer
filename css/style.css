@@ -13,10 +13,6 @@
     color: white;
 }
 
-.my-image {
-    max-width: 200px;
-}
-
 .my-separator i{
     font-size: 2em;
 }
@@ -43,11 +39,4 @@
     border-radius: 50%;
 }
 
-
-
-@media screen and (max-width: 578px) {
-    nav ul {
-        display: none;
-    }
-}
 
