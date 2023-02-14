@@ -36,5 +36,10 @@
     background-color: black;
 }
 
-
+.social-icon-circle {
+    width: 2.5em;
+    height: 2.5em;
+    border: 1px solid white;
+    border-radius: 50%;
+}
 
