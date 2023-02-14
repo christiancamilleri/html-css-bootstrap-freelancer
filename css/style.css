@@ -43,3 +43,11 @@
     border-radius: 50%;
 }
 
+
+
+@media screen and (max-width: 578px) {
+    nav ul {
+        display: none;
+    }
+}
+
