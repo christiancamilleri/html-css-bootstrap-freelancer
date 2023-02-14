@@ -12,3 +12,13 @@
     background-color: #1abc9c;
     color: white;
 }
+
+/* test */
+.my-col-inner {
+    min-height: 200px;
+
+    background-color: #ba4b63;
+
+    border: 1px solid black;
+}
+/* /test */
