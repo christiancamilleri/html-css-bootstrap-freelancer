@@ -25,3 +25,14 @@
     background-color: #3a546d;
 }
 
+.my-line {
+    width: 100px;
+    height: 3px;
+
+    background-color: white;
+}
+
+.black {
+    background-color: black;
+}
+
